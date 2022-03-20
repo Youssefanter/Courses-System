@@ -1,2 +1,2 @@
 # Courses-System
-My first project in year 1...me and my team mates made it.....project is created by c++ language
+ My first team project at the university, developed with c++ in the structured programming course, the user shall add courses to the database and assign students to this course, and also shall delete and edit any course in addition to deleting and editing student information.
